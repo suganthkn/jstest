@@ -26,3 +26,11 @@ And created a new test file called basic.js
 
 To run the file used the below command
 npx wdio run wdio.conf.js
+
+Finally the test was successfully runned for one time showing the pass status.
+Later it does not work and i was not able to troubleshoot.
+
+I was able to open the browser and verify the title of the "Getting Started" alone.
+And i was not able to script the below task:
+
+Click on the development link and further task was not able to complete.
